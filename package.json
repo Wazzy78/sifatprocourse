@@ -2,7 +2,7 @@
   "name": "appium-jenkins-test",
   "version": "1.0.0",
   "description": "homework",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "test": "node test.js"
   },
@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  {
   "dependencies": {
     "webdriverio": "^8.32.0",
     "@wdio/appium-service": "^8.32.0",
     "@wdio/mocha-framework": "^8.32.0"
   }
 }
+
