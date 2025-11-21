@@ -16,6 +16,7 @@ const wdOpts = {
   capabilities,
 };
 
+
 async function runTest() {
   const driver = await remote(wdOpts);
 
